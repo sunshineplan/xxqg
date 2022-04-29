@@ -3,8 +3,8 @@ module xxqg
 go 1.18
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20220421002605-e483954745f2
-	github.com/chromedp/chromedp v0.8.0
+	github.com/chromedp/cdproto v0.0.0-20220428002153-285dfb42699c
+	github.com/chromedp/chromedp v0.8.1
 )
 
 require (
