@@ -3,8 +3,8 @@ module xxqg
 go 1.18
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20220629234738-4cfc9cdeeb92
-	github.com/chromedp/chromedp v0.8.2
+	github.com/chromedp/cdproto v0.0.0-20220725225757-5988d9195a6c
+	github.com/chromedp/chromedp v0.8.3
 	github.com/sergi/go-diff v1.2.0
 	github.com/sunshineplan/chrome v1.0.1
 	github.com/vharitonsky/iniflags v0.0.0-20180513140207-a33cd0b5f3de
